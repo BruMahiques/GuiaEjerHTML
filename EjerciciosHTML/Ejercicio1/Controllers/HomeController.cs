@@ -42,5 +42,9 @@ namespace Ejercicio1.Controllers
         {
             return View();
         }
+        public ActionResult Tablas2()
+        {
+            return View();
+        }
     }
 }
