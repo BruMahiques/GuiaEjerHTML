@@ -30,5 +30,9 @@ namespace Ejercicio1.Controllers
         {
             return View();
         }
+        public ActionResult Enlaces()
+        {
+            return View();
+        }
     }
 }

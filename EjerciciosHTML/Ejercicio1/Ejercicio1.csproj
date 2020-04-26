@@ -107,6 +107,7 @@
     <Content Include="Views\Home\Ejercicio2.cshtml" />
     <Content Include="Views\Home\Ejercicio3.cshtml" />
     <Content Include="Views\Home\Ejercicio3B.cshtml" />
+    <Content Include="Views\Home\Enlaces.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
