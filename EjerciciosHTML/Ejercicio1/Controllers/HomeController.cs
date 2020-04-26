@@ -22,5 +22,9 @@ namespace Ejercicio1.Controllers
         {
             return View();
         }
+        public ActionResult Ejercicio3()
+        {
+            return View();
+        }
     }
 }
